@@ -38,7 +38,7 @@ After **picking up** an axe thrown by this enchantment, the corresponding axe **
 ***
 
 ### Mastery (Max Level III)
-The charging speed **increases** by **8/14/20%**. You can start charging when your **attack cooldown** reaches **80/65/50%**. The **slowness** applied while charging is **reduced** by **20/35/50%**.
+The charging speed **increases** by **8/10/12%**. You can start charging when your **attack cooldown** reaches **80/65/50%**. The **slowness** applied while charging is **reduced** by **20/35/50%**.
 
 # Dependency
 - [Timed Modifiers API (required)](https://modrinth.com/project/UsIu1tnt)
