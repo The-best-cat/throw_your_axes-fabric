@@ -5,8 +5,7 @@ When you are **not** in attack cooldown, you can **press and hold** the **use** 
 
 The **longer** you charge, the **faster** it goes, and deals **60%~150%** of the axe's damage.
 
-Throwing consumes **1 durability**. Axes can exist on objects for **2 minutes** before naturally discarding.
-
+Throwing consumes **1 durability**. 
 # Attribute
 **A new attribute is added for one of the enchantments.**
 
@@ -35,6 +34,8 @@ The axe gains **2/3/4/5/6 tokens**. Every time you throw your axe, a **token** w
 
 After **picking up** an axe thrown by this enchantment, the corresponding axe **recovers** a token.
 
+**Incompatible with Mending**
+
 ***
 
 ### Mastery (Max Level III)
@@ -44,7 +45,7 @@ The charging speed **increases** by **8/10/12%**. You can start charging when yo
 - [Timed Modifiers API (required)](https://modrinth.com/project/UsIu1tnt)
 
 # MISC
-This mod is still in testing, please report any bugs to this email address: heinok.chow@gmail.com
+This mod is still in testing, please report any bugs to Github or this email address: heinok.chow@gmail.com
 
 The compatibility between this mod and other mods are not tested yet.
 
